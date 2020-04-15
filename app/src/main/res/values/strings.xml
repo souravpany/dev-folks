@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">DevFolks</string>
+
+    <string name="network_connection_error">Internet connection lost, please retry again</string>
+    <string name="could_not_refresh">Could\'t not refresh list</string>
+    <string name="network_default_error">"Network error! Can't get latest posts."</string>
+    <string name="network_internal_error">Our systems got an error, please retry again</string>
+    <string name="network_server_not_available">Our services are under maintenance, please retry after some time
+    </string>
+    <string name="server_connection_error">Not able to connect, please retry again</string>
+    <string name="permission_denied">Permission Denied</string>
+    <string name="network_login_again">Please log in again</string>
+
+    <string name="text_no_connectivity">No Connection</string>
+    <string name="text_connectivity">Back Online</string>
+
+    <!--main screen-->
+    <string name="treading_action_bar_title">Treading</string>
+
+
+</resources>
